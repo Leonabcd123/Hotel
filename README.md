@@ -34,12 +34,12 @@ This is a simple hotel room management system built in C++ that allows users to 
 ## Usage
 Once the program is running, it will display a menu with options:
 
-**Add Rooms**: Add a specified number of rooms (between 1 and 100).
-**Remove Rooms**: Remove a specified number of rooms (up to the total number of rooms).
-**Show Rooms**: Display all rooms and their current status (booked or available).
-**Book a Room**: Enter your name and choose a room to book (the room must be available).
-**Cancel a Room**: Enter the room number to cancel your reservation (the room must be booked).
-**Quit**: Exit the program.
+1. **Add Rooms**: Add a specified number of rooms (between 1 and 100).
+2. **Remove Rooms**: Remove a specified number of rooms (up to the total number of rooms).
+3. **Show Rooms**: Display all rooms and their current status (booked or available).
+4. **Book a Room**: Enter your name and choose a room to book (the room must be available).
+5. **Cancel a Room**: Enter the room number to cancel your reservation (the room must be booked).
+6. **Quit**: Exit the program.
 ## Example Workflow
 
 ```bash
